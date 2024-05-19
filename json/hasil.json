@@ -42,11 +42,17 @@
 		"nama_ptn": "UNIVERSITAS NEGERI YOGYAKARTA",
 		"kode_prodi": "362049",
 		"nama_prodi": "PENDIDIKAN GURU SEKOLAH DASAR"
-    }
-    ,
+    },
     {
-        "id": 4,
-        "bahas": ""
+        "id": "00000000000000000017",
+		"diterima": "1",
+		"nopes": "00 - 0000 - 000017",
+		"nama": "ADELYA ZYLVA KIRANA",
+		"tl": "17 - 05 - 2007",
+		"kode_ptn": "355",
+		"nama_ptn": "UNIVERSITAS DIPONEGORO",
+		"kode_prodi": "	355041",
+		"nama_prodi": "MANAJEMEN"
     },
     {
         "id": 5,
