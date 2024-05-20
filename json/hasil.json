@@ -55,8 +55,15 @@
 		"nama_prodi": "MANAJEMEN"
     },
     {
-        "id": 5,
-        "bahas": "Product 5"
+        "id": "24353064901216032006",
+		"diterima": "1",
+		"nopes": "24 - 3530 - 649012",
+		"nama": "HANIN WIDIYANSIH",
+		"tl": "16 - 03 - 2006",
+		"kode_ptn": "321",
+		"nama_ptn": "UNIVERSITAS INDONESIA",
+		"kode_prodi": "321034",
+		"nama_prodi": "ARKEOLOGI INDONESIA"
     },
     {
         "id": 6,
